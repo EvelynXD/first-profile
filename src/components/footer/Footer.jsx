@@ -13,7 +13,7 @@ const Footer = () => {
             <h1>Let's work together!</h1>
           </div>
           <div className="footer__button">
-            <Link to="/me">Get in touch</Link>
+            <Link to="https://open.spotify.com/user/31z2idpn5eieetgvh6x6kzjvrqlu?si=1-lb4oeTQT-S_JocsucFug&utm_source=copy-link&nd=1">Get in touch</Link>
           </div>
           <div className="footer__contact">
             <a href="mailto:a8900873@gmail.com">
