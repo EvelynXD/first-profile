@@ -16,6 +16,9 @@ Link {
   line-height: 1rem;
   z-index: 10;
 }
+.nav_name span:hover {
+  cursor: pointer;
+}
 
 .nav__menu {
   position: fixed;
