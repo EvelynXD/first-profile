@@ -13,7 +13,7 @@ const Footer = () => {
             <h1>Let's work together!</h1>
           </div>
           <div className="footer__button">
-            <Link to="https://open.spotify.com/user/31z2idpn5eieetgvh6x6kzjvrqlu?si=1-lb4oeTQT-S_JocsucFug&utm_source=copy-link&nd=1">Get in touch</Link>
+            <Link to="https://open.spotify.com/user/31z2idpn5eieetgvh6x6kzjvrqlu?si=1-lb4oeTQT-S_JocsucFug&utm_source=copy-link&nd=1">Listen!</Link>
           </div>
           <div className="footer__contact">
             <a href="mailto:a8900873@gmail.com">
@@ -41,9 +41,9 @@ const Footer = () => {
             <a
               target="_blank"
               rel="noreferrer noopener"
-              href="https://www.youtube.com/c/wielinoino"
+              href="https://www.kebelet-iphone.my.id/"
             >
-              YouTube
+              Bloggspot
             </a>
             <a
               target="_blank"
@@ -64,9 +64,9 @@ const Footer = () => {
             <a
               target="_blank"
               rel="noreferrer noopener"
-              href="https://www.tiktok.com/@evelynxd6969"
+              href="https://discord.gg/rhhAQ63aUg"
             >
-              TikTok
+              Discord
             </a>
           </div>
         </div>
