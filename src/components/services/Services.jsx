@@ -58,6 +58,7 @@ const Services = () => {
             <span>Node JS</span>
           </div>
           <div className="stack__item">
+            <span>Vue JS</span>
             <span>HTML</span>
             <span>CSS</span>
             <span>JavaScript</span>
