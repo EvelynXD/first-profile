@@ -20,7 +20,18 @@
 
 html {
   scroll-behavior: smooth;
-  overflow: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {      
+  background: #1f1f1f;    
+}
+
+::-webkit-scrollbar-thumb {
+  background: #5f000021;
 }
 
 body,
