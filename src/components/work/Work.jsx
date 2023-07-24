@@ -125,7 +125,7 @@ const Work = () => {
               <a
                 target="_blank"
                 rel="noreferrer noopener"
-                href="https://evelynxd.github.io/ular-kanjuth/"
+                href="https://evelynxd.github.io/Snake-/"
               >
                 <i class="uil uil-arrow-up-left"></i>
                 <span>Preview</span>
